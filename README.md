@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Python
+
 - 🌱 I’m currently learning Python and IoT
 - 👯 I’m looking to collaborate on python projects
 - 💬 Ask me about anything. I shall try to help.
